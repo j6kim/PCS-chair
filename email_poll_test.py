@@ -1,5 +1,5 @@
 """ Example code sending automated emails based on smap metadata query.
-    @ author Joyce Kim <joyce_kim@berkeley.edu>
+    @ author Joyce Kim <joyce_kim@berkeley.edu>   
 """
 
 from smap.archiver.client import SmapClient
