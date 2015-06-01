@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e440e055-0a33-41d2-9d6f-c7230932e760" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email_poll_test.py" afterPath="$PROJECT_DIR$/email_poll_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pcs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/email_poll_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.02388535" vertical-offset="0" max-vertical-offset="750">
-              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -174,7 +173,7 @@
     <entry file="file://$PROJECT_DIR$/email_poll_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.02388535" vertical-offset="0" max-vertical-offset="750">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
           <folding />
         </state>
       </provider>
