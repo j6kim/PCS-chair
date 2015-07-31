@@ -28,10 +28,28 @@ def send_email():
     except:
         print "failed to send mail"
 
-schedule.every().day.at("16:18").do(send_email)
-schedule.every().day.at("16:19").do(send_email)
-schedule.every().day.at("16:20").do(send_email)
+# Mon
+schedule.every().monday.at("10:00").do(send_email)
+schedule.every().monday.at("14:00").do(send_email)
+schedule.every().monday.at("16:00").do(send_email)
+# Tues
+schedule.every().tuesday.at("10:00").do(send_email)
+schedule.every().tuesday.at("14:00").do(send_email)
+schedule.every().tuesday.at("16:00").do(send_email)
+# Wed
+schedule.every().wednesday.at("10:00").do(send_email)
+schedule.every().wednesday.at("14:00").do(send_email)
+schedule.every().wednesday.at("16:00").do(send_email)
+# Thur
+schedule.every().thursday.at("10:00").do(send_email)
+schedule.every().thursday.at("14:00").do(send_email)
+schedule.every().thursday.at("16:00").do(send_email)
+# Fri
+schedule.every().friday.at("10:00").do(send_email)
+schedule.every().friday.at("14:00").do(send_email)
+schedule.every().friday.at("16:00").do(send_email)
 
 while True:
+    print "starting the script"
     schedule.run_pending()
     time.sleep(30)
